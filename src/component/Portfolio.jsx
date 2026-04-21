@@ -27,10 +27,10 @@ function Portfolio() {
 
           <ul className="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" className="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
+            <li data-filter=".filter-app">Icreem Shop</li>
+            <li data-filter=".filter-product">Hotal Management </li>
+            <li data-filter=".filter-branding">restront shop</li>
+            <li data-filter=".filter-books">ecommercer shop</li>
           </ul>
 
           <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
