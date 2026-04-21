@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.5af1eeee.css",
+    "main.js": "/my_portfolio/static/js/main.341bb24c.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/my_portfolio/static/js/453.fd2f0c4a.chunk.js",
+    "static/media/profile-img.jpg": "/my_portfolio/static/media/profile-img.9ec2f7cc55d398611f2d.jpg",
+    "static/media/hero-img.jpg": "/my_portfolio/static/media/hero-img.2930af2efbd7b666dbcc.jpg",
+    "static/media/bootstrap-icons.woff?": "/my_portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/my_portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/books-3.jpg": "/my_portfolio/static/media/books-3.3bd107d524d9950d84f3.jpg",
+    "static/media/product-2.jpg": "/my_portfolio/static/media/product-2.e03676392c46a11a43b5.jpg",
+    "static/media/books-1.jpg": "/my_portfolio/static/media/books-1.0cdba8895456d133d483.jpg",
+    "static/media/branding-3.jpg": "/my_portfolio/static/media/branding-3.b7db10edbeaf1b2636f1.jpg",
+    "static/media/app-2.jpg": "/my_portfolio/static/media/app-2.6da4d40f3db54f106a2d.jpg",
+    "static/media/app-1.jpg": "/my_portfolio/static/media/app-1.802eed785283b8b9771e.jpg",
+    "static/media/product-1.jpg": "/my_portfolio/static/media/product-1.3975dff84a3e21a541e2.jpg",
+    "static/media/books-2.jpg": "/my_portfolio/static/media/books-2.e35be653c50c959ede7b.jpg",
+    "static/media/branding-2.jpg": "/my_portfolio/static/media/branding-2.fb2f2584ecb4a3699148.jpg",
+    "static/media/app-3.jpg": "/my_portfolio/static/media/app-3.1328908345eb07514079.jpg",
+    "static/media/branding-1.jpg": "/my_portfolio/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
+    "static/media/product-3.jpg": "/my_portfolio/static/media/product-3.74bf18a3643851c49388.jpg",
+    "index.html": "/my_portfolio/index.html",
+    "main.5af1eeee.css.map": "/my_portfolio/static/css/main.5af1eeee.css.map",
+    "main.341bb24c.js.map": "/my_portfolio/static/js/main.341bb24c.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/my_portfolio/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af1eeee.css",
+    "static/js/main.341bb24c.js"
+  ]
+}
